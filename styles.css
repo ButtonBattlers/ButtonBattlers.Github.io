@@ -241,6 +241,7 @@ textarea {
   border-radius: 4px;
   font-size: 16px;
   resize: none;
+  box-sizing: border-box;
 }
 
 /* Add some spacing to the form */
